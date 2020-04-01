@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-language_test/Pods-language_test-frameworks.sh
+${PODS_ROOT}/ZendeskCommonUISDK/CommonUISDK.framework
+${PODS_ROOT}/ZendeskCoreSDK/ZendeskCoreSDK.framework
+${PODS_ROOT}/ZendeskMessagingAPISDK/MessagingAPI.framework
+${PODS_ROOT}/ZendeskMessagingSDK/MessagingSDK.framework
+${PODS_ROOT}/ZendeskSDKConfigurationsSDK/SDKConfigurations.framework
+${PODS_ROOT}/ZendeskSupportProvidersSDK/SupportProvidersSDK.framework
+${PODS_ROOT}/ZendeskSupportSDK/SupportSDK.framework
